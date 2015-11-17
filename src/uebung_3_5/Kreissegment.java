@@ -5,7 +5,7 @@ import java.text.DecimalFormat;
 public class Kreissegment {
 
 	public static void main(String[] args) {
-		double radius = 8;
+		double radius = 10;
 		double alpha = 45;
 		double alphahalbe = alpha/2;
 		double pi = Math.PI;
